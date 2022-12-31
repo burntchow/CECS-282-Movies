@@ -1,4 +1,4 @@
-# CECS-282-Movies
+# Movies
 ## Project 3
 
 Movie array of pointers, populated with some of my favorite movies.
